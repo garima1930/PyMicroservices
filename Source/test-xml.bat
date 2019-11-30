@@ -1,4 +1,4 @@
-SET PATH=%PATH%;c:\Users\nvmur\Appdata\Local\Programs\Python\Python37-32;c:\Users\nvmur\Appdata\Local\Programs\Python\Python37-32\Scripts
+SET PATH=%PATH%;C:\Users\HOME\AppData\Local\Programs\Python\Python37;C:\Users\HOME\AppData\Local\Programs\Python\Python37\Scripts
 del C:\Users\HOME\Desktop\PyMicroservices-master\Source\python_tests_xml\*.*
 del C:\Users\HOME\Desktop\PyMicroservices-master\Source\coverage.xml
 cd C:\Users\HOME\Desktop\PyMicroservices-master\Source
